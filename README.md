@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gaurav Girkar</h1>
+<h1 align="center">Hi 👋, I'm Shreyash Jadhav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Web development**
 
-- 📫 How to reach me **gauravgirkar194@gmail.com**
+- 📫 How to reach me **shreyashjadhav1001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
